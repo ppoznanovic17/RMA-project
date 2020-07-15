@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/schedule"
+        android:title="Raspored"
+        android:icon="@drawable/ic_sced_blue_24dp"
+    />
+
+    <item
+        android:id="@+id/notes"
+        android:title="Beleske"
+        android:icon="@drawable/ic_note_blue_24dp"
+    />
+
+    <item
+        android:id="@+id/statistics"
+        android:title="Statistika"
+        android:icon="@drawable/ic_poll_blue_24dp"
+    />
+
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/ic_person_blue_24dp"
+        android:title="@string/profile"
+        />
+
+
+</menu>

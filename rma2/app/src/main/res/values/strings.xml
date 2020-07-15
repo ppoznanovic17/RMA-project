@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">RAF Weather</string>
+
+    <string name="app_title">RAF Weather</string>
+
+
+    ///////////////////////////////////////////////////////
+    <string name="titleSplash">RAF</string>
+
+    //login
+    <string name="appName">RAF SERVIS</string>
+    <string name="usernameLogin">Unesite korisnicko ime</string>
+    <string name="passwordLogin">Unesite sifru</string>
+    <string name="pinLogin">PIN</string>
+    <string name="btnLogin">Prijavi se</string>
+
+
+    //menu
+    <string name="schedule">Raspored </string>
+    <string name="notes">Beleske</string>
+    <string name="statistics">Statistika</string>
+    <string name="profile">Profil</string>
+
+    //profile
+    <string name="titleProfile">Profil studenta</string>
+    <string name="usernameProfile">Korisnicko ime stidenta:</string>
+    <string name="profilLogoutBtn">Odjava</string>
+
+    //search placeholders
+    <string name="subjectSearch">Pretrazi po predmetu</string>
+    <string name="professorSearch">Pretrazi po nastavniku</string>
+    <string name="groupSearch">Pretrazi po grupi</string>
+    <string name="daySearch">Pretrazi po danu</string>
+
+    //notes
+    <string name="notesSearch">Pretrazi po naslovu ili sadrzaju</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
